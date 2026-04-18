@@ -72,8 +72,10 @@ A maioria dos agentes que já existem no mercado focam apenas em gerar respsotas
 
 ---
 
-## Link do Vídeo
+## Link do Vídeo 🤩
+Importante salientar que ainda não foi implementado o Ollama!
+Abaixo está o link do Pitch para apresentação do projeto. 
 
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
+> https://drive.google.com/file/d/1GHwRsg-EBG6AR015HqzZFxxkLaeWR8rI/view?usp=sharing
 
-[Link do vídeo]
+
