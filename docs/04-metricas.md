@@ -1,4 +1,4 @@
-# Avaliação e Métricas
+# Avaliação e Métricas (Não foi possível instalar o OLLAMA para realizar este teste 😥)
 
 ## Como Avaliar seu Agente
 
